@@ -21,14 +21,14 @@ The repository is structured as :
 
 Temporary link to dashboard: http://lafanechere.me:8088
 
-Credentials :
-* Username : `admin`
-* Password:  `admin`
-
 Some screenshots :
 
 <img src="./imgs/dashboard_1.png">
 <img src="./imgs/dashboard_2.png">
+
+Credentials :
+* Username : `admin`
+* Password:  `admin`
 
 Link to forecasts outputs : https://cernbox.cern.ch/index.php/s/Rr8tSBtwvf679C1?path=%2F
 
@@ -37,7 +37,7 @@ Link to forecasts outputs : https://cernbox.cern.ch/index.php/s/Rr8tSBtwvf679C1?
 * __Turnover Forecasting__
 
 After aggregating the training data into per-hour frames, we decided to learn three models :
-- one that predicts the number of products that will be solid
+- one that predicts the number of products that will be sold
 - one that predicts the number of clients visiting the shop
 - one that predicts how much money will be earned.
 
@@ -49,4 +49,4 @@ We wanted to help the farm finding products that could be sold together. For thi
 
 * __Real-time restaurant audience measurement__
 
-Knowing how many customers visit the restaurant and how much time they spend inside is a very important thing. To evaluate this, we take advantage of the fact that all connected devices send Wi-Fi signals (called probe requests) by listening to them and counting them. That gives us a live approximation of the traffic in the restaurant, that we display on our dashboard.
+Knowing how many customers visit the restaurant and how much time they spend inside is crucial to determine the visitors/tables turnover in order to optimise the amount of workfore and space for the restaurant owners. To evaluate this, we take advantage of the fact that all connected devices send Wi-Fi signals (called probe requests) by listening to them and counting them. That gives us a live approximation of the traffic in the restaurant, that we display on our dashboard.
