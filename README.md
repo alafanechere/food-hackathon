@@ -21,14 +21,14 @@ The repository is structured as :
 
 Temporary link to dashboard: http://lafanechere.me:8088
 
+Credentials :
+* Username : `admin`
+* Password:  `admin`
+
 Some screenshots :
 
 <img src="./imgs/dashboard_1.png">
 <img src="./imgs/dashboard_2.png">
-
-Credentials :
-* Username : `admin`
-* Password:  `admin`
 
 Link to forecasts outputs : https://cernbox.cern.ch/index.php/s/Rr8tSBtwvf679C1?path=%2F
 
