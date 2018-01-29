@@ -14,5 +14,7 @@ The repository is structured as :
 * **wifi_tracking**: Probe requests capture for wifi tracking
 
 Temporary link to dashboard: http://lafanechere.me:8088
+
 Credentials : admin  / admin
+
 Link to forecasts outputs : https://cernbox.cern.ch/index.php/s/Rr8tSBtwvf679C1?path=%2F
