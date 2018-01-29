@@ -1,4 +1,4 @@
-# food-hackathon
+# A Dashboard for Prognolite
 
 ## Abstract
 
