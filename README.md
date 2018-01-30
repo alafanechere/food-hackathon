@@ -27,8 +27,8 @@ Some screenshots :
 <img src="./imgs/dashboard_2.png">
 
 Credentials :
-* Username : `admin`
-* Password:  `admin`
+* Username : `demo`
+* Password:  `demo75`
 
 Link to forecasts outputs : https://cernbox.cern.ch/index.php/s/Rr8tSBtwvf679C1?path=%2F
 
