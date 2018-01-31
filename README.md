@@ -2,7 +2,7 @@
 
 ## Abstract
 
-In the food hackathon we (@arnaudmiribel - @victor5114 - @jastaehl - @yamash - @ArnaudRobert - @musella - @Ash-1331)
+In the food hackathon we (@arnaudmiribel - @victor5114 - @jastaehl - @yamash - @ArnaudRobert - @musella - @Ash-1331 - @alafanechere)
 helped Prognolite to prototype 3 data driven use cases for their clients :
 1. Turnover forecasting to predict restaurant activities for better handling of food waste, staff management and customer services.
 2. Bundling suggestions generated from receipt collection.
